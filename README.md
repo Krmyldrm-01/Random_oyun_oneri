@@ -1,7 +1,9 @@
 # bugun_ne_yapsam
 
-ilk static olmayan uygulama
-
+ Uygulamada bulunan oyun resimlerine tıkladıkça bize yeni oyunlar önermektedir
+(Statefull widget kullanılmıştır çünkü ekranda bir etkileşim söz konusudur 
+bu etkileşim için TextButton kullanılmıştır , yapılan değişikliklerin
+sonuca ulaşabiilmesi için ise setState methodu kullanılmıştır )*/
 ## Getting Started
 
 This project is a starting point for a Flutter application.
