@@ -163,6 +163,3 @@ class _GamePageState extends State<GamePage> {
   }
 }
 
-/*
-* Uygulamada bulunan oyun resimlerine tıkladıkça bize yeni oyunlar önermektedir
-(Statefull widget kullanılmıştır çünkü ekranda bir etkileşim söz konusudur bu etkileşim için TextButton kullanılmıştır , yapılan değişikliklerin sonuca ulaşabiilmesi için ise setState methodu kullanılmıştır )*/
